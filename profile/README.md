@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
 
 ### ✔️AI
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/Fast.AI-000000?style=for-the-badge&logo=Fast.AI&logoColor=white"/> <img src="https://img.shields.io/badge/nginx-000000?style=for-the-badge&logo=nginx&logoColor=white"/>
 
 ## 팀 노션
 > https://deserted-spectacles-b48.notion.site/OOTW-outfit-of-today-s-weather-d0f0c1792f474f95a22f9dd383368d0e?pvs=4
