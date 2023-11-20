@@ -4,6 +4,9 @@
 ## 배포 주소
 > https://www.ootw.store
 
+## 최종 발표 영상
+> https://www.youtube.com/watch?v=a2QeRtko_Vw&t=251s
+
 ## 팀원 소개 
 <table>
   <tbody>
