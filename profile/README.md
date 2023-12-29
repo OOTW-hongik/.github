@@ -2,7 +2,7 @@
 > **홍익대학교 컴퓨터공학과 2023 졸업프로젝트** <br/> **개발 기간: 2023.03 ~ 2023.11**
 
 ## 배포 주소
-> https://www.ootw.store
+> https://www.ootw.store <sub>(2023.12.29. 배포 종료)</sub>
 
 ## 최종 발표 영상
 > https://www.youtube.com/watch?v=a2QeRtko_Vw&t=251s
